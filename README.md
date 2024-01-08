@@ -35,12 +35,12 @@
    
 ## Performance & Comparison
 
-- Characteristics of the Automated Assembly line
+- Characteristics of the Automated Assembly line:
 
 <p align="center">
   <img width="500" src="https://github.com/kiettran499/Redesigning-Motor-Gearbox-for-Automated-Assembly/blob/main/Assembly%20line%20characteristics.png">
   
-- Comparison between Manual Line and Automated Line
+- Comparison between Manual Line and Automated Line:
 
 <p align="center">
   <img width="500" src="https://github.com/kiettran499/Redesigning-Motor-Gearbox-for-Automated-Assembly/blob/main/Comparison%20between%20Manual%20Line%20and%20Automated%20Line.png">
