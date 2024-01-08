@@ -1,7 +1,7 @@
 # Redesigning-Motor-Gearbox-for-Automated-Assembly
 
 <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/The%20final%20design%20with%20bedplate_3D%20model.png">
+  <img width="500" src="https://github.com/kiettran499/Redesigning-Motor-Gearbox-for-Automated-Assembly/blob/main/3D%20model%20of%20new%20Motor%20Gearbox.png">
 
 ## Description
 
@@ -22,7 +22,7 @@
   - The cost and time consuming with time cycle during operation must be reduced.
  
 <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/The%20final%20design%20with%20bedplate_3D%20model.png">
+  <img width="500" src="https://github.com/kiettran499/Redesigning-Motor-Gearbox-for-Automated-Assembly/blob/main/3D%20model%20of%20new%20Motor%20Gearbox_Exploded%20View.png">
   
 - The proposal of New Automated Assembly Line: 
   - Adopting a conveyor assembly system.
@@ -31,7 +31,16 @@
   - The operator's working range does not overlap for safety reasons.
 
  <p align="center">
-  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/The%20final%20design%20with%20bedplate_3D%20model.png">
+  <img width="500" src="https://github.com/kiettran499/Redesigning-Motor-Gearbox-for-Automated-Assembly/blob/main/AssemblyLineDiagram.png">
    
 ## Performance & Comparison
 
+- Characteristics of the Automated Assembly line
+
+<p align="center">
+  <img width="500" src="https://github.com/kiettran499/Redesigning-Motor-Gearbox-for-Automated-Assembly/blob/main/Assembly%20line%20characteristics.png">
+  
+- Comparison between Manual Line and Automated Line
+
+<p align="center">
+  <img width="500" src="https://github.com/kiettran499/Redesigning-Motor-Gearbox-for-Automated-Assembly/blob/main/Comparison%20between%20Manual%20Line%20and%20Automated%20Line.png">
